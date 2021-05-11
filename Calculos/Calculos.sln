@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculos", "Calculos\Calculos.csproj", "{901CDA42-EA85-41E7-9E13-062AA6FD20D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculosTest", "CalculosTest\CalculosTest.csproj", "{BAEAC693-58C1-4ADA-877F-037385E870C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901CDA42-EA85-41E7-9E13-062AA6FD20D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901CDA42-EA85-41E7-9E13-062AA6FD20D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901CDA42-EA85-41E7-9E13-062AA6FD20D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901CDA42-EA85-41E7-9E13-062AA6FD20D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEAC693-58C1-4ADA-877F-037385E870C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEAC693-58C1-4ADA-877F-037385E870C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEAC693-58C1-4ADA-877F-037385E870C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEAC693-58C1-4ADA-877F-037385E870C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABECC423-514B-429E-A11B-6B451F78A60B}
+	EndGlobalSection
+EndGlobal

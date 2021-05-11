@@ -1,0 +1,16 @@
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.exe
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.deps.json
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.runtimeconfig.json
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.runtimeconfig.dev.json
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.dll
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\ref\Calculos.dll
+C:\Users\mariana\source\repos\Calculos\Calculos\bin\Debug\net5.0\Calculos.pdb
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.csprojAssemblyReference.cache
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.AssemblyInfo.cs
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.dll
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\ref\Calculos.dll
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.pdb
+C:\Users\mariana\source\repos\Calculos\Calculos\obj\Debug\net5.0\Calculos.genruntimeconfig.cache
