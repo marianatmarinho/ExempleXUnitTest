@@ -1,5 +1,5 @@
 # ExempleXUnitTest
-Exemplo de Teste Unitário de cálculos matemáticos básicos utilizando XUni.
+Exemplo de Teste Unitário de cálculos matemáticos básicos utilizando XUnit.
 Para fins didáticos.
 
 ### Começando
