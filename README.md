@@ -1,5 +1,5 @@
 # ExempleXUnitTest
-Exemplo de Teste Unitário de cálculos matemáticos básicos utilizando XUnit.
+Exemplo de Teste Unitário de cálculos matemáticos básicos utilizando XUnit e NUnit (adicionado posteriormente).
 Para fins didáticos.
 
 ### Começando
@@ -17,3 +17,4 @@ git clone https://github.com/marianatmarinho/ExempleXUnitTest.git
 - Visual Studio 2019
 - Framework .NET Core 5.0
 - xUnit Test Project (.NET Core)
+- NUnit Test Project (.NET Core)
