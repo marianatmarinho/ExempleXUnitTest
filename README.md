@@ -14,7 +14,6 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/marianatmarinho/ExempleXUnitTest.git
 ```
 ### Ambiente de Desenvolvimento
-- Visual Studio 2019
-- Framework .NET Core 5.0
-- xUnit Test Project (.NET Core)
-- NUnit Test Project (.NET Core)
+- .NET Core SDK 1.1
+- VS Code (Instale a extensão C# para o VS Code)
+- Entity Framework Core
